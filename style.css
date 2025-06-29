@@ -1,0 +1,18 @@
+input{
+    width: 80%;
+    padding: 10px;
+}
+.box{
+    border-color:#ffd700;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width: 300px;
+    height: 408px;
+    margin: 20px;
+}
+.Starters{
+    padding:20px;
+    text-align: center;
+
+}
